@@ -25,3 +25,13 @@ Example:
 
 multiply(5,2)
 # 10
+
+## square(x)
+
+Returns the square of a value by using the existing `multiply(a, b)` function.
+
+### Example
+
+```python
+square(5)
+# 25
