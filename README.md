@@ -1,0 +1,1 @@
+Our code multiplies numbers a and b (a*b)
