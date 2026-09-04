@@ -24,9 +24,3 @@ Example:
 
 multiply(5,2)
 # 10
-
-## subteamB extension function
-
-sumlist(values) 
-
-get values from a list called values and uses the add function to find sum of the values of list
