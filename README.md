@@ -35,3 +35,8 @@ Returns the square of a value by using the existing `multiply(a, b)` function.
 ```python
 square(5)
 # 25
+## subteamB extension function
+
+sumlist(values) 
+
+get values from a list called values and uses the add function to find sum of the values of list
